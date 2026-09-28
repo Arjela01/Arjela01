@@ -15,7 +15,6 @@ Outside of code, you'll find me on the volleyball court every week, I love the t
 
 🔭 &nbsp;I'm currently working on **Engineering (Ingegneria Informatica) where I designed and built the shared UI Kit and UI Core component libraries now used across all 7 development streams by a 50-developer program, the single design-system foundation that keeps the UI consistent and speeds up delivery for every team.**  
 🌱 &nbsp;I'm currently learning **Italian language**  
-💬 &nbsp;Ask me about **I'm a front-end-focused Software Developer with 6 years of experience building enterprise-grade Angular applications. In my current role I designed and built the shared UI Kit and UI Core libraries now used across all 7 development streams by a 50-developer program, and I develop a Telecom billing platform as a zoneless Angular 21 micro-frontend. I work confidently across the stack — Angular, TypeScript and RxJS through to Node.js and Java/Spring Boot REST APIs — and I've shipped AI-powered features using RAG and Azure OpenAI.**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
