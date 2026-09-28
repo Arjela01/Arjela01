@@ -11,11 +11,12 @@
 ### 🚀 About Me
 
 Front-end-focused Software Engineer with 6 years of experience building enterprise-grade web applications with Angular and TypeScript.  
-Outside of code, you'll find me on the volleyball court every week, I love the teamwork and the reset it gives me. I've travelled across Europe, but the trip that stuck with me was China: I came back fascinated by the sheer scale of its tech infrastructure, took on the challenge of climbing the Great Wall, and as a lifelong animal lover, seeing pandas in real life was easily one of my happiest moments. The thread through all of it is a slight obsession with clean, well-ordered systems, in life as much as in code.
+I work confidently across the stack: Angular, TypeScript, RxJS, Signals, HTML/CSS/SCSS through to Node.js, NestJS, PostgreSQL and GraphQL, and I've shipped AI-powered features using RAG and Azure OpenAI. I care about clean architecture, reusable component design, accessibility (WCAG) and well-tested code (Jasmine/Karma, CI/CD).
 
 🔭 &nbsp;I'm currently working on **Engineering (Ingegneria Informatica) where I designed and built the shared UI Kit and UI Core component libraries now used across all 7 development streams by a 50-developer program, the single design-system foundation that keeps the UI consistent and speeds up delivery for every team.**  
 🌱 &nbsp;I'm currently learning **Italian language**  
-😄 &nbsp;Pronouns: **she/her**
+😄 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **Outside of code, you'll find me on the volleyball court every week, I love the teamwork and the reset it gives me. I've travelled across Europe, but the trip that stuck with me was China: I came back fascinated by the sheer scale of its tech infrastructure, took on the challenge of climbing the Great Wall, and as a lifelong animal lover, seeing pandas in real life was easily one of my happiest moments. The thread through all of it is a slight obsession with clean, well-ordered systems, in life as much as in code.**
 
 ### 🛠️ Tech Stack
 
