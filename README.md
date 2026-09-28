@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineer%20%7C%20Angular%20%26%20Front-End;I'm%20a%20front-end-focused%20Software%20Engineer%20with%206%20years%20of%20experience%20building%20enterprise-grade%20Angular%20applications.%20In%20my%20current%20role%20I%20designed%20and%20built%20the%20shared%20UI%20Kit%20and%20UI%20Core%20libraries%20now%20used%20across%20all%207%20development%20streams%20by%20a%2050-developer%20program%2C%20and%20I%20develop%20a%20Telecom%20billing%20platform%20as%20a%20zoneless%20Angular%2021%20micro-frontend.%20I%20work%20confidently%20across%20the%20stack%20%E2%80%94%20Angular%2C%20TypeScript%20and%20RxJS%20through%20to%20Node.js%20and%20Java%2FSpring%20Boot%20REST%20APIs%20and%20I've%20shipped%20AI-powered%20features%20using%20RAG%20and%20Azure%20OpenAI." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=625&height=44&lines=Software%20Engineer%20%7C%20Angular%20%26%20Front-End" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
